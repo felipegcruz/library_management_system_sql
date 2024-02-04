@@ -48,10 +48,6 @@ The Library Management System provides the following functionalities:
 - Enhance search functionality with more advanced queries.
 - Improve error handling and input validation.
 
-## Contributors
-- [Your Name]
-- [Contributor 1]
-- [Contributor 2]
 
 ## License
 This project is licensed under the [License Name]. See the [LICENSE.md](LICENSE.md) file for details.
